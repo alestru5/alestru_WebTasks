@@ -135,6 +135,7 @@ p {
 }
 div.about{
   display: table-cell;
+  width: 33%;
 }
 div.head{
   margin: 10px;

@@ -21,9 +21,9 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 div.SiteFooter :deep(.footer) {
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
 }
